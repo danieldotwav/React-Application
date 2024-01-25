@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can see project as it develops in your browser by clicking [here](https://danieldotwav.github.io/React-Application/)
 
 ## Available Scripts
 
